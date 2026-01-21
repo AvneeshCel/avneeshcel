@@ -1,3 +1,8 @@
 title: Avneesh Singh
 description: Programmer Portfolio
 theme: jekyll-theme-minimal
+
+header_pages:
+ - index.md
+ - projects.md
+ - about.md
