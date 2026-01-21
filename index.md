@@ -5,7 +5,9 @@ title: Home
 
 # Avneesh Singh
 
-** Software Engineer** (e.g., Frontend Developer) • Edmonton, Canada
+Software Engineer (e.g., Frontend Developer) • Edmonton, Canada
+
+[Projects](/projects) | [About](/about)
 
 ## Projects
 
